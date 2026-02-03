@@ -60,7 +60,7 @@ export default function ProjectList() {
             </span>
             <span className="inline-flex items-center gap-1 px-3 py-1 rounded-full bg-slate-50 border border-slate-200 text-slate-500">
               <span className="h-2 w-2 rounded-full bg-emerald-400" />
-              Draft • Autosaved
+              Draft . Autosaved
             </span>
           </div>
 
